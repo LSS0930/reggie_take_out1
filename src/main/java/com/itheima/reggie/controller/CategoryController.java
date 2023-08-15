@@ -24,7 +24,7 @@ public class CategoryController {
 
     /**
      * 新增分类
-     * @param category  11
+     * @param category  11111
      * @return
      */
     @PostMapping
